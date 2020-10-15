@@ -405,14 +405,14 @@ It's user-friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
 
-### 3. Start doing coding interview questions while you're learning data structures and algorithms
+### 3. Start doing coding interview questions while you're learning data structures and algorithms,
 
 You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. Once you've learned a topic,
 and feel comfortable with it, like linked lists, open one of the coding interview books and do a couple of questions regarding
 linked lists. Then move on to the next learning topic. Then later, go back and do another linked list problem,
 or recursion problem, or whatever. But keep doing problems while you're learning. You're not being hired for knowledge,
 but how you apply the knowledge. There are several books and sites I recommend.
-See here for more: [Coding Question Practice](#coding-question-practice).
+See here for more: [Coding Question Practice](#coding-question-practice)
 
 ### 4. Review, review, review
 
@@ -517,7 +517,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [x] New raw data array with allocated memory
+        - [x] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
             - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
         - [x] size() - number of items
@@ -1314,7 +1314,7 @@ Coding Interview Question Videos:
 
 Challenge sites:
 - [LeetCode](https://leetcode.com/)
-    - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing
+    - My favorite coding problem site. It's worth the subscription money for the 1-2 months you'll likely be preparing.
     - [LeetCode solutions from FisherCoder](https://github.com/fishercoder1534/Leetcode)
     - See Nick White Videos above for short code-throughs
 - [HackerRank](https://www.hackerrank.com/)
@@ -1338,7 +1338,7 @@ Challenge repos:
 Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
-- [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies
+- [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously.
 
 
